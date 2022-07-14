@@ -1,0 +1,2 @@
+mongo-leaf-color: <a href="https://iconscout.com/icons/mongodb" target="_blank">Mongodb Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia">Icon Mafia</a> on <a href="https://iconscout.com">IconScout</a>
+mongo-leaf-named: <a href="https://iconscout.com/icons/mongodb" target="_blank">Mongodb Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia">Icon Mafia</a> on <a href="https://iconscout.com">IconScout</a>

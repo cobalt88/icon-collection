@@ -1,0 +1,3 @@
+react-color: <a href="https://iconscout.com/icons/react" target="_blank">React Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia" target="_blank">Icon Mafia</a>
+react-bw: <a href="https://iconscout.com/icons/react" target="_blank">React Icon</a> by <a href="https://iconscout.com/contributors/unicons">Unicons Font</a> on <a href="https://iconscout.com">IconScout</a>
+react-color-named: <a href="https://iconscout.com/icons/react" target="_blank">React Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia">Icon Mafia</a> on <a href="https://iconscout.com">IconScout</a>

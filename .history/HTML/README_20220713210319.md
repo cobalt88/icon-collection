@@ -1,0 +1,4 @@
+HTML1-brackets: <a href="https://iconscout.com/icons/code" target="_blank">Code Icon</a> by <a href="https://iconscout.com/contributors/maninderkaur">maninderkaur</a> on <a href="https://iconscout.com">IconScout</a>
+html2: <a href="https://iconscout.com/icons/html" target="_blank">Html Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia">Icon Mafia</a> on <a href="https://iconscout.com">IconScout</a>
+html3-color: <a href="https://iconscout.com/icons/html5" target="_blank">Html5 Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia">Icon Mafia</a> on <a href="https://iconscout.com">IconScout</a>
+html4-bw

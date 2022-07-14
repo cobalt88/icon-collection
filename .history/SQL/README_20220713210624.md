@@ -1,0 +1,4 @@
+attribution for MySQL Icon: <a href="https://iconscout.com/icons/mysql" target="_blank">Mysql Icon</a> by <a href="https://iconscout.com/contributors/fengquanli" target="_blank">fengquan</a>
+SQL Relational DB Icon: <a href="https://iconscout.com/icons/database-system" target="_blank">Database System Icon</a> by <a href="https://iconscout.com/contributors/arkinasi-icon" target="_blank">Arkinasi Icon</a>
+SQL Paper Icon: <a href="https://iconscout.com/icons/file" target="_blank">File Icon</a> by <a href="https://iconscout.com/contributors/mcgandhi61" target="_blank">Mohit Gandhi</a>
+mysql-color: <a href="https://iconscout.com/icons/mysql" target="_blank">Mysql Icon</a> by <a href="https://iconscout.com/contributors/icon-54" target="_blank">Icon 54</a>

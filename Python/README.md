@@ -1,0 +1,2 @@
+python-color: <a href="https://iconscout.com/icons/python" target="_blank">Python Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia">Icon Mafia</a> on <a href="https://iconscout.com">IconScout</a>
+python-bw: <a href="https://iconscout.com/icons/python" target="_blank">Python Icon</a> by <a href="https://iconscout.com/contributors/alexandru-stoica">Alexandru Stoica</a> on <a href="https://iconscout.com">IconScout</a>
