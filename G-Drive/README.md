@@ -1,0 +1,2 @@
+gdriveBW: <a href="https://iconscout.com/icons/google-drive" target="_blank">Google drive Icon</a> by <a href="https://iconscout.com/contributors/unicons" target="_blank">Unicons Font</a>
+googel-driveColor: <a href="https://iconscout.com/icons/google-drive" target="_blank">Google Drive Icon</a> by <a href="https://iconscout.com/contributors/oviyan" target="_blank">Amoghdesign</a>
