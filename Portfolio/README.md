@@ -1,0 +1,2 @@
+portfolio1 <a href="https://iconscout.com/icons/job-portfolio" target="_blank">Job Portfolio Icon</a> by <a href="https://iconscout.com/contributors/iconscout">IconScout Store</a> on <a href="https://iconscout.com">IconScout</a>
+gearBrain: <a href="https://iconscout.com/icons/man" target="_blank">Man Icon</a> by <a href="https://iconscout.com/contributors/chamedesign">Chamestudio</a> on <a href="https://iconscout.com">IconScout</a>
