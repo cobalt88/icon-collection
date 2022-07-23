@@ -1,0 +1,2 @@
+githubWithLogo: <a href="https://iconscout.com/icons/github" target="_blank">Github Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia">Icon Mafia</a> on <a href="https://iconscout.com">IconScout</a>
+github1: <a href="https://iconscout.com/icons/github" target="_blank">Github Icon</a> by <a href="https://iconscout.com/contributors/pixel-icons" target="_blank">Pixel Icons</a>
